@@ -47,7 +47,7 @@ We recommend installing Rust using [rustup](https://www.rustup.rs/). You can ins
 - Windows (64-bit):  
   
   Download the [Windows 64-bit executable](https://win.rustup.rs/x86_64) or
-  [Windows 32-bit executable](https://win.rustup.rs/i686) and follow the on-screen instructions.
+  [Windows 32-bit executable](https://win.rustup.rs/i686) and follow the on-screen instructions
 
 ### 2.2a Build from Crates.io
 
